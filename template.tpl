@@ -5,6 +5,7 @@ ___INFO___
   "id": "cvt_temp_public_id",
   "version": 1,
   "securityGroups": [],
+  "categories": ["ANALYTICS"],
   "displayName": "IP Range Categorizer",
   "description": "Mapps a user IP or a range of IPs to a string. For example, useful for creating a traffic_type variable that differentiates inter/external traffic.",
   "containerContexts": ["SERVER"]
