@@ -8,7 +8,10 @@ ___INFO___
   "categories": ["ANALYTICS"],
   "displayName": "IP Range Categorizer",
   "description": "Mapps a user IP or a range of IPs to a string. For example, useful for creating a traffic_type variable that differentiates inter/external traffic.",
-  "containerContexts": ["SERVER"]
+  "containerContexts": ["SERVER"],
+  "brand": {
+    "displayName": "TRKKN - IP Range Categorizer"
+  }
 }
 
 ___NOTES___
@@ -503,10 +506,12 @@ ___TEMPLATE_PARAMETERS___
 
 ___TERMS_OF_SERVICE___
 
+
 By creating or modifying this file you agree to Google Tag Manager's Community
 Template Gallery Developer Terms of Service available at
 https://developers.google.com/tag-manager/gallery-tos (or such other URL as
 Google may provide), as modified from time to time.
+
 
 
 ___TESTS___
