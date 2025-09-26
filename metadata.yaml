@@ -1,6 +1,8 @@
 homepage: "https://www.trkkn.com"
 documentation: "https://github.com/trkkn/gtm-server-variable-template-ip-range-categorizer"
 versions:
+  - sha: d0441ea03a83a60896eb8b0b4f0428096ebb9a95
+    changeNotes: template.tpl
   - sha: 68cbb3192afc763126398b0f20a6a38b5bf40170
     changeNotes: updated layout.
   - sha: 1f4026c7817f7708f6f36909a8e459060b0dcab1
